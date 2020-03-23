@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Hardik Thakker",
+    "address": "CEO, Co-founder",
+    "contact": "+91-9979372772",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/hardik-341x342.jpg",
+    "url": "http://www.john-wesley.com"
+  },
+  {
+    "name": "Jalpesh Rajani",
+    "address": "COO, Co-founder",
+    "contact": "+918980030883",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/small-jalpesh-341x342.jpg",
+    "url": "https://www.microsoft.com"
+  },
+  {
+    "name": "Ankur Akvaliya",
+    "address": "Team Lead",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/ankur-new-341x342.jpg",
+    "url": "https://www.apple.com"
+  },
+  {
+    "name": "Pankaj Prajapati",
+    "address": "Project Manager",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/Pankaj-341x342.jpg",
+    "url": "https://www.facebook.com"
+  },
+  {
+    "name": "Renish Dadhaniya",
+    "address": "Sr. Full-Stack Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/renishbhai-1-341x342.jpeg",
+    "url": "https://www.google.com"
+  },
+  {
+    "name": "Poonam Ramani",
+    "address": "HR Manager",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/Poonam-HR-Pic-341x342.jpg",
+    "url": "https://www.alibaba.com"
+  },
+  {
+    "name": "Mona Sadaria",
+    "address": "Sr. PHP Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/Mona-new-PIC-341x342.jpg",
+    "url": "https://www.amazon.com"
+  },
+  {
+    "name": "Manisha Mandaliya",
+    "address": "Sr. Full-stack Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/transparent-341x342.jpg",
+    "url": "https://www.intel.com"
+  },
+  {
+    "name": "Vandana Patel",
+    "address": "Sr. PHP Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/vandana-341x342.jpg",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Sheetal Gajjar",
+    "address": "Sr. Android Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/image-341x342.png",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Dhaval Thakral",
+    "address": "ASP.NET Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/1577873194924-341x342.jpeg",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Jayraj Rathod",
+    "address": "PHP Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/bapu-341x342.png",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Krishna Sanghani",
+    "address": "UI/UX Designer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/kishu-341x342.png",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Kanti Vekariya",
+    "address": "Front-End Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/kanti-1-341x342.jpeg",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Kaushal Patwala",
+    "address": "BDE",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/kaushal-341x342.jpeg",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Yash Shah",
+    "address": "UI/UX Designer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/Yashshah-1-341x342.png",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Parth Gole",
+    "address": "BDE",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/parthgole-341x342.jpg",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Het Soni",
+    "address": "BDE",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/hetsoni-341x342.jpg",
+    "url": "https://www.ibm.com"
+  },
+  {
+    "name": "Malay Patel",
+    "address": "Sr. Angular Developer",
+    "contact": "12345678",
+    "photo": "http://www.albiorixtech.com/wp-content/uploads/2020/01/malay-2-341x342.jpg",
+    "url": "https://www.ibm.com"
+  }
+]
