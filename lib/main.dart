@@ -7,7 +7,6 @@ import 'package:flutter_demo/SignUpScreen.dart';
 import 'package:flutter_demo/SplashScreen.dart';
 import 'package:flutter_demo/TabBarDemo.dart';
 import 'package:flutter_demo/map_demo/MapHomePage.dart';
-import 'package:flutter_demo/map_demo/add_polyline.dart';
 import 'package:flutter_demo/models/MyApp.dart';
 import 'package:flutter_demo/onboarding/onboard_main.dart';
 
@@ -42,6 +41,6 @@ class ContactlyApp extends StatelessWidget {
         theme: new ThemeData(
           primaryColor: appOrangeColor,
         ),
-        home: AddPolylines());
+        home: SplashScreen());
   }
 }
